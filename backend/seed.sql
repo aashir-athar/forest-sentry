@@ -1,0 +1,6 @@
+-- Intentionally empty.
+--
+-- The Supabase project is provisioned with no seed data — every zone, tree,
+-- inspection, and incident is captured in the field by an authenticated
+-- WWF operator. Add zones here only if you need a fixed reference set for a
+-- specific pilot; otherwise, draw them in the app via Zone Editor.

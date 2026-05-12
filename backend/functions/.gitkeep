@@ -1,0 +1,2 @@
+# Reserved for future Supabase Edge Functions.
+# v1 of ForestSentry doesn't need any — the mobile client writes directly via supabase-js.
