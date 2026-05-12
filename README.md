@@ -442,7 +442,7 @@ MIT — see [`LICENSE`](./LICENSE).
 Built by **[Aashir Athar](https://github.com/aashir-athar)**
 
 <a href="https://github.com/aashir-athar"><img src="https://img.shields.io/badge/GitHub-aashir--athar-2A5C45?style=flat-square&logo=github" alt="GitHub @aashir-athar" /></a>
-<a href="https://x.com/aashir_athar"><img src="https://img.shields.io/badge/X-@aashir__athar-0F2A1F?style=flat-square&logo=x" alt="X @aashir_athar" /></a>
+<a href="https://x.com/aashirathar"><img src="https://img.shields.io/badge/X-@aashir__athar-0F2A1F?style=flat-square&logo=x" alt="X @aashirathar" /></a>
 <a href="https://www.linkedin.com/in/aashir-athar/"><img src="https://img.shields.io/badge/LinkedIn-aashir--athar-3D2E1F?style=flat-square&logo=linkedin" alt="LinkedIn aashir-athar" /></a>
 
 </div>
